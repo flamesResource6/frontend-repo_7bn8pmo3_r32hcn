@@ -11,7 +11,6 @@ function Hero() {
 
       <div className="relative z-10 max-w-6xl mx-auto px-4 pt-40 pb-24">
         <div className="max-w-2xl">
-          <span className="inline-block text-xs uppercase tracking-[0.2em] text-zinc-300/80">Web Agency Boutique</span>
           <h1 className="mt-4 text-4xl sm:text-6xl font-semibold tracking-tight text-white">
             Eccellenza nei Servizi Web su Misura
           </h1>
