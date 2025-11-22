@@ -13,10 +13,10 @@ function Hero() {
         <div className="max-w-2xl">
           <span className="inline-block text-xs uppercase tracking-[0.2em] text-zinc-300/80">Web Agency Boutique</span>
           <h1 className="mt-4 text-4xl sm:text-6xl font-semibold tracking-tight text-white">
-            Siti web premium, minimal e performanti per attività locali
+            Eccellenza nei Servizi Web su Misura
           </h1>
           <p className="mt-5 text-zinc-300 leading-relaxed">
-            Studio Lem Agency progetta esperienze digitali eleganti e moderne per parrucchieri, centri estetici, palestre, personal trainer e saloni di bellezza.
+            Studio Lem Agency progetta esperienze digitali eleganti e moderne per attività locali.
           </p>
           <div className="mt-8 flex gap-3">
             <a href="#portfolio" className="inline-flex items-center rounded-full bg-white text-slate-900 px-6 py-3 font-medium hover:bg-zinc-200 transition">Guarda portfolio</a>
